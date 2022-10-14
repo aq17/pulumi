@@ -3,7 +3,11 @@
 ## 3.42.0 (2022-10-07)
 
 ### test
+<<<<<<< HEAD
 ### test
+=======
+
+>>>>>>> f104efa36 (nit)
 ### Bug Fixes
 
 - [cli/new] Fix cloning templates from Azure DevOps repos.
